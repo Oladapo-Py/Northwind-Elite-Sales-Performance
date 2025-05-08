@@ -62,7 +62,8 @@ Northwind Elite’s sales performance of 240 records across 2024 (January–Augu
 - While North America leads in revenue generated, Asia leads in Unit Sold across regions. Recorded 233 Units sold. Asia shows a consolidation trend across the months with February ($4,278) being the peak month while June ($1,945) recorded the dip month.
 - The Europe region is where we generated the least revenue $21,268. Sales surge in the month of March while sales dip in the month of June $1,689.
 ![image alt](https://github.com/Oladapo-Py/Northwind-Elite-Sales-Performance/blob/c0004773810bf8c5723d4bc0d8f945b1ed68888a/Annotation%202025-05-08%20135324.png)
-
+![image alt](https://github.com/Oladapo-Py/Northwind-Elite-Sales-Performance/blob/b1048b9de74942475143c216319492a2d22fad9b/Annotation%202025-05-08%20135919.png)
+![image alt](https://github.com/Oladapo-Py/Northwind-Elite-Sales-Performance/blob/b1048b9de74942475143c216319492a2d22fad9b/Annotation%202025-05-08%20135856.png)
 
 ### 2. PRODUCT PERFORMANCE ANALYSIS
 - Electronics being dominant product peaked in January at $7,999, dropped to a low of $2,999 in February, and ended at $3,006 in August.
